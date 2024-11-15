@@ -1,14 +1,7 @@
 👋 Hello, I'm Fatima Zahra!
-🌟 About Me
+🌟 About Me  
 I'm a passionate full-stack developer specializing in building dynamic,
 user-friendly web applications. 
-
-
-
-
-
-
-
 
 
 
