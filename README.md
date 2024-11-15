@@ -12,7 +12,19 @@ user-friendly web applications.
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
 [![Php](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://php.org/)  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/) 
+### 
+- [Laravel](https://laravel.com/)
+- [PHP](https://www.php.net/)
+- [Express.js](https://expressjs.com/)
+- [MySQL](https://www.mysql.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Python](https://www.python.org/)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
+
 
 
 🌟 Let's Connect  
