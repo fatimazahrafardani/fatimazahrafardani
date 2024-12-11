@@ -1,9 +1,6 @@
-![Background Image](https://your-image-link-here.png)
+![Background Image](![hhh](https://github.com/user-attachments/assets/976748c7-06e9-4e11-9aa8-1b739c8bce3f)
 
-# 👋 Hello, I'm Fatima Zahra!  
-🌟 About Me  
-I'm a passionate full-stack developer specializing in building dynamic,  
-user-friendly web applications.
+
 <div style="background-color:#D2691E; color:white; padding: 40px; border-radius: 15px;">
   <h1>👋 Hello, I'm Fatima Zahra!</h1>
   <p>🌟 About Me: I'm a passionate full-stack developer specializing in building dynamic, user-friendly web applications.</p>
