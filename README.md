@@ -18,4 +18,4 @@ Let’s build something amazing together! Feel free to reach out or connect with
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fatimazahrafardani)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimazahra-fardani-25b3ab258//)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fardanifatimazahra@example.com)
-Let’s make the web a better place! 🌍💻
+ 🌍💻
